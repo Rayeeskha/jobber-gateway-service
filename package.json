@@ -20,7 +20,7 @@
   "license": "ISC",
   "dependencies": {
     "@elastic/elasticsearch": "^9.3.4",
-    "@rayeeskha/jobber-shared": "^0.3.10",
+    "@rayeeskha/jobber-shared": "^0.3.11",
     "axios": "^1.15.0",
     "bcrypt": "^6.0.0",
     "compress": "^0.99.0",
